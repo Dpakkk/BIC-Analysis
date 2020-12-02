@@ -1,5 +1,5 @@
 # BIC-Analysis
-Up To Now:
+Procedure
 - Data Loading 
 - EDA Performed
 - Top Huddleness and Opportunities of startups
