@@ -6,7 +6,7 @@ Process :
 - Startup type comparison with gender
 - Infographic Design on process(Canva)
 
- This is the final design of this complete Analysis
+ This is the final design of this complete Analysis.
 
 ![alt text](https://github.com/Dpakkk/BIC-Analysis/blob/master/Entrepreneur%20system%20of%20bharatpur%20city.png)
 
